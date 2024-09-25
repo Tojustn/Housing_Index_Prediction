@@ -17,17 +17,6 @@ The goal of this project is to utilize a **Lasso linear regression model** to pr
 
 The dataset was sourced from the [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx) and includes housing index values from 1991 to 2024.
 
-The dataset contains the following columns:
-- `Year`: The year of the index value.
-- `Index Value`: The housing index for a given year relative to the base year (1991).
-
-### Example Data:
-| Year | Index Value |
-|------|-------------|
-| 1991 | 100         |
-| 1992 | 105         |
-| ...  | ...         |
-| 2024 | 287         |
 
 ## Model
 
